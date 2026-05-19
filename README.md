@@ -2,6 +2,8 @@
 
 Static splash-page media set for 0tru, a privacy-first optimistic oracle for entering truth into prediction markets.
 
+Live site: https://dark-optimistic-oracle.github.io/splash/
+
 ## Files
 
 - `index.html` and `styles.css` - static splash page.
